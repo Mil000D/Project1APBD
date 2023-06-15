@@ -1,4 +1,4 @@
-# Project 1
+# Project 1 : Summary
 
 In this tutorial, we are tasked with creating an application that reads a CSV file containing a list of students, filters out duplicate and incorrect records, and saves the filtered data in a JSON format. The application follows a specific set of requirements:
 
