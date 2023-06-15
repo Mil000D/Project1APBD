@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "APBD2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mdeme\\OneDrive\\Pulpit\\C#\\tutorial2_ja-Mil0Dem\\Data\\dane.csv\r\nC:\\Users\\mdeme\\OneDrive\\Pulpit"
+    }
+  }
+}
